@@ -14,6 +14,8 @@ To run a simulation
 
 `defense can be one of [none, median, euclid, cosine]`
 
+Ex: `python3 sim.py -N 20 -A 4 -D median`
+
 ## Output
 
 The simulator outputs the accuracy of the global model similar to-
